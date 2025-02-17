@@ -1,0 +1,104 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "Johndoe",
+      "email": "johndoe@example.com",
+      "age": 25,
+      "address": "123 Main St, Springfield",
+      "company": "TechCorp",
+      "gender": "male",
+      "avatar": "https://randomuser.me/api/portraits/men/1.jpg"
+    },
+    {
+      "id": 2,
+      "username": "Emily",
+      "email": "emily@gmail.com",
+      "age": 17,
+      "address": "456 Oak St, Springfield",
+      "company": "HealthInc",
+      "gender": "female",
+      "avatar": "https://randomuser.me/api/portraits/women/2.jpg"
+    },
+    {
+      "id": 3,
+      "username": "mikesmith",
+      "email": "mikesmith@example.com",
+      "age": 30,
+      "address": "789 Pine St, Springfield",
+      "company": "FinancePlus",
+      "gender": "male",
+      "avatar": "https://randomuser.me/api/portraits/men/3.jpg"
+    },
+    {
+      "id": 4,
+      "username": "lisabrown",
+      "email": "lisabrown@example.com",
+      "age": 16,
+      "address": "321 Elm St, Springfield",
+      "company": "EduWorld",
+      "gender": "female",
+      "avatar": "https://randomuser.me/api/portraits/women/4.jpg"
+    },
+    {
+      "id": 5,
+      "username": "tomharris",
+      "email": "tomharris@example.com",
+      "age": 35,
+      "address": "654 Maple St, Springfield",
+      "company": "BuildTech",
+      "gender": "male",
+      "avatar": "https://randomuser.me/api/portraits/men/5.jpg"
+    },
+    {
+      "id": 6,
+      "username": "emilywhite",
+      "email": "emilywhite@example.com",
+      "age": 24,
+      "address": "987 Birch St, Springfield",
+      "company": "GreenEarth",
+      "gender": "female",
+      "avatar": "https://randomuser.me/api/portraits/women/6.jpg"
+    },
+    {
+      "id": 7,
+      "username": "robertjohnson",
+      "email": "robertjohnson@example.com",
+      "age": 32,
+      "address": "159 Cedar St, Springfield",
+      "company": "AutoWorks",
+      "gender": "male",
+      "avatar": "https://randomuser.me/api/portraits/men/7.jpg"
+    },
+    {
+      "id": 8,
+      "username": "natalieking",
+      "email": "natalieking@example.com",
+      "age": 26,
+      "address": "753 Willow St, Springfield",
+      "company": "StyleCo",
+      "gender": "female",
+      "avatar": "https://randomuser.me/api/portraits/women/8.jpg"
+    },
+    {
+      "id": 9,
+      "username": "jameswilson",
+      "email": "jameswilson@example.com",
+      "age": 29,
+      "address": "951 Chestnut St, Springfield",
+      "company": "FoodieMarket",
+      "gender": "male",
+      "avatar": "https://randomuser.me/api/portraits/men/9.jpg"
+    },
+    {
+      "id": 10,
+      "username": "saraclark",
+      "email": "saraclark@example.com",
+      "age": 31,
+      "address": "258 Aspen St, Springfield",
+      "company": "EventPro",
+      "gender": "female",
+      "avatar": "https://randomuser.me/api/portraits/women/10.jpg"
+    }
+  ]
+}
